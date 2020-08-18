@@ -23,7 +23,7 @@ nav_order: 1
 
 * QSPI-DDR-capable flash 128 MBit (16 MB)
   * We selected to use the Winbond
-    [W25Q128JVSIM](//winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
+    [W25Q128JVSIM](http://winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
   * We want to enable projects that access the flash and we want to provide the
     highest flash access speed possible.
 

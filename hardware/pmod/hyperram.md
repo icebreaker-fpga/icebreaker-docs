@@ -11,7 +11,7 @@ grand_parent: Hardware
 
 The Cypress 64 or 256MBit 3.3V dual PMOD is ideal for expanding the memory of your FPGA project.
 
-This PMOD features one or four Cypress 64MBit 3.3V 100MHz DDR [S27KL0641DABHI020](//cypress.com/file/183506/download) HyperRAM chips.
+This PMOD features one or four Cypress 64MBit 3.3V 100MHz DDR [S27KL0641DABHI020](//cypress.com/part/s27kl0641dabhi020) HyperRAM chips.
 
 This module can be used with any FPGA development board that offers two PMOD connectors. It is compatible with the [Digilent PMOD specification](//digilentinc.com/Pmods/Digilent-Pmod_%20Interface_Specification.pdf).
 
