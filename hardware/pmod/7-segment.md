@@ -9,7 +9,7 @@ grand_parent: Hardware
 
 [Available at 1BitSquared](//1bitsquared.com/collections/fpga/products/pmod-7-segment-display){: .btn}
 
-The 7 Segment LED Display single PMOD is ideal for simple exercises as well as number indicators for your FPGA project.
+The 7-Segment LED Display single PMOD is ideal for simple exercises as well as number indicators for your FPGA project.
 
 This module can be used with any FPGA development board that offers one PMOD connector. It is compatible with the [Digilent PMOD specification](//digilentinc.com/Pmods/Digilent-Pmod_%20Interface_Specification.pdf).
 
