@@ -5,8 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 title: iCEBreaker FPGA Documentation
 description: Documentation for the iCEBreaker FPGA Project
-baseurl: "/docs"
-url: "https://icebreaker-fpga.org"
+baseurl: "/"
+url: "https://docs.icebreaker-fpga.org"
 
 remote_theme: pmarsceill/just-the-docs
 # Set a path/url to a logo that will be displayed instead of the title
