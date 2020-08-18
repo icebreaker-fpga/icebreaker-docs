@@ -8,4 +8,4 @@ permalink: /hardware
 
 # Hardware
 
-There are several boards within the iCEBreaker FPGA project. They can be purchased from [1BitSquared](https://1bitsquared.com/collections/fpga).
+There are several boards within the iCEBreaker FPGA project. They can be purchased from [1BitSquared](//1bitsquared.com/collections/fpga).

@@ -9,4 +9,4 @@ permalink: /hardware/pmod
 
 # PMOD
 
-PMOD is a Digilent standard for FPGA dev board connections.
+PMOD is a [Digilent standard](//digilentinc.com/Pmods/Digilent-Pmod_%20Interface_Specification.pdf) for FPGA dev board connections.

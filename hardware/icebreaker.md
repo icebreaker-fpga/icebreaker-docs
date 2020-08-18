@@ -7,8 +7,12 @@ nav_order: 1
 
 # iCEBreaker
 
+[Available at 1BitSquared](//1bitsquared.com/collections/fpga/products/icebreaker){: .btn}
+
+![iCEBreaker](/assets/img/icebreaker/icebreaker-iso_png_project-body_1024x1024.webp)
+
 * iCE40UP5K in QFN48 (SG48) package
-  * [iCE40 UltraPlus 5K](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx)
+  * [iCE40 UltraPlus 5K](//latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx)
   * 5280 Logic Cells (4-LUT + Carry + FF)
   * 128 KBit Dual-Port Block RAM
   * 1 MBit (128 KB) Single-Port RAM
@@ -19,14 +23,14 @@ nav_order: 1
 
 * QSPI-DDR-capable flash 128 MBit (16 MB)
   * We selected to use the Winbond
-    [W25Q128JVSIM](http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
+    [W25Q128JVSIM](//winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf)
   * We want to enable projects that access the flash and we want to provide the
     highest flash access speed possible.
 
-* [FT2232H](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf) interface (microUSB plug)
+* [FT2232H](//ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf) interface (microUSB plug)
   * programming compatible with iCEstick and HX8K board
-    * works with [Dimond Programmer](http://www.latticesemi.com/programmer) and
-      [iceprog](https://github.com/cliffordwolf/icestorm/tree/master/iceprog)
+    * works with [Diamond Programmer](//latticesemi.com/programmer) and
+      [iceprog](//github.com/YosysHQ/icestorm/tree/master/iceprog)
   * serial port compatible with iCEstick and HX8K breakout board
   * 12 MHz XTAL oscillator (shared with FPGA)
   * Solder jumpers to offer direct SRAM programming (like on HX8K breakout board)
@@ -38,7 +42,7 @@ nav_order: 1
   * 2 extra GPIO pins for QSPI
     * Together with the config pins, allows storage of additional data in the
       FLASH chip, and high speed QSPI DDR access. For example
-      [picosoc](https://github.com/cliffordwolf/picorv32/tree/master/picosoc)
+      [picosoc](//github.com/cliffordwolf/picorv32/tree/master/picosoc)
       firmware.
   * 3 PINs for RGB LED (pin header)
   * 2 LEDs (one on output-only PLL pin)
@@ -95,9 +99,9 @@ nav_order: 1
   * 3x Host PMOD (2x for dual PMOD port, 1x for snap-off section)
   * 1x Device PMOD (for other side of snap-off section)
 
-![iCEBreaker block diagram](/assets/img/icebreaker-v1.0b/icebreaker-block-diagram.jpg)
+![iCEBreaker block diagram](/assets/img/icebreaker/icebreaker-block-diagram.jpg)
 **iCEBreaker block diagram**
-![iCEBreaker V1.0b pinout legend](/assets/img/icebreaker-v1.0b/icebreaker-v1_0b-legend.jpg)
+![iCEBreaker V1.0b pinout legend](/assets/img/icebreaker/icebreaker-v1_0b-legend.jpg)
 **iCEBreaker V1.0b pinout legend**
-![iCEBreaker V1.0b jumper legend](/assets/img/icebreaker-v1.0b/icebreaker-v1_0b-legend-jumpers.jpg)
+![iCEBreaker V1.0b jumper legend](/assets/img/icebreaker/icebreaker-v1_0b-legend-jumpers.jpg)
 **iCEBreaker V1.0b jumper legend**

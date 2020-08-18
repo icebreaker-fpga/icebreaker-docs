@@ -7,4 +7,4 @@ grand_parent: Hardware
 
 # USB PMOD
 
-USB PMOD
+![USB PMOD](/assets/img/pmod/usb.jpeg)

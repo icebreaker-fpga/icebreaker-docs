@@ -7,4 +7,4 @@ grand_parent: Hardware
 
 # Gamepad & Audio PMOD
 
-Gamepad & Audio PMOD
+![Gamepad & Audio PMOD](/assets/img/pmod/gamepad-n-audio.png)
