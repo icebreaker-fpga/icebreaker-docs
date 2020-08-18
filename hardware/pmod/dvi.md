@@ -11,7 +11,7 @@ grand_parent: Hardware
 
 The 12bit per pixel dual PMOD digital video board is ideal for adding digital video output to your iCEBreaker FPGA project, without the need for high speed differential signals. This PMOD will work with common HDMI compatible computer monitors. The 12bit color is as easy to drive as a VGA connector with a resistor ladder for color generation.
 
-This PMOD uses the [TFP410](//ti.com/product/TFP410) from TI or its drop-in replacement [SII164](//media.digikey.com/pdf/Data%20Sheets/Lattice%20PDFs/SiI_164_PanelLink_Trans_Jun2005.pdf) from Lattice Semi. It is based on the design by Black Mesa Labs and has the same pinout.
+This PMOD uses the [TFP410](//ti.com/product/TFP410) from TI or its drop-in replacement [SII164](//media.digikey.com/pdf/Data%20Sheets/Lattice%20PDFs/SiI_164_PanelLink_Trans_Jun2005.pdf) from Lattice Semi. It is based on the [design by Black Mesa Labs](//blackmesalabs.wordpress.com/2017/12/15/bml-hdmi-video-for-fpgas-over-pmod) and has the same pinout.
 
 This module can be used with any FPGA development board that offers two PMOD connectors. It is compatible with the [Digilent PMOD specification](//digilentinc.com/Pmods/Digilent-Pmod_%20Interface_Specification.pdf).
 
