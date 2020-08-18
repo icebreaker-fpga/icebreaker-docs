@@ -15,6 +15,6 @@ This module can be used with any FPGA development board that offers two PMOD con
 
 You can find the schematic and design files of this PMOD in the [iCEBreaker PMOD repository](//github.com/icebreaker-fpga/icebreaker-pmod).
 
-If you have additional questions about this PMOD join the [iCEBreaker Discord channel](https://1bitsquared.com/pages/chat) and ask away! :)
+If you have additional questions about this PMOD join the [iCEBreaker Discord channel](//1bitsquared.com/pages/chat) and ask away! :)
 
 ![LED Panel Driver PMOD](/assets/img/pmod/led-panel_1024x1024.webp)
