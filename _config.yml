@@ -1,5 +1,9 @@
-remote_theme: pmarsceill/just-the-docs
+title: Documentation | iCEBreaker FPGA
+description: Documentation for the iCEBreaker FPGA Project
+baseurl: "/docs"
+url: "https://icebreaker-fpga.org"
 
+remote_theme: pmarsceill/just-the-docs
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/icebreaker.png"
 # Aux links for the upper right navigation
