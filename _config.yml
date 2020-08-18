@@ -80,6 +80,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "iCEBreaker on Discord":
+    - "//1bitsquared.com/pages/chat"
   "iCEBreaker on GitHub":
     - "//github.com/icebreaker-fpga"
 
