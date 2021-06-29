@@ -14,6 +14,7 @@ iCEBreaker Bitsy is the smaller but just-as-capable sibling to iCEBreaker. At ju
 
 ![iCEBreaker Bitsy v1.0a product photo](/assets/img/icebreaker-bitsy/bitsy-v1.0a.jpg)
 ![iCEBreaker Bitsy v1.1a photo](/assets/img/icebreaker-bitsy/bitsy-v1.1a.jpg)
+![iCEBreaker Bitsy v1.1b panel photo](/assets/img/icebreaker-bitsy/bitsy-v1.1b.jpeg)
 
 ## Features
  
@@ -36,10 +37,15 @@ iCEBreaker Bitsy is the smaller but just-as-capable sibling to iCEBreaker. At ju
 * Compatible with Feather ecosystem using a [Teensy 3.x Feather Adapter](//adafruit.com/product/3200)
 * Castellated edges and single-side-load for easy module integration
 
-![iCEBreaker Bitsy v1.1b info card, front](/assets/img/icebreaker-bitsy/bitsy-v1.1b_info-card_front.svg)
-![iCEBreaker Bitsy v1.1b info card, back](/assets/img/icebreaker-bitsy/bitsy-v1.1b_info-card_back.svg)
+![iCEBreaker Bitsy v1.1c info card, front](/assets/img/icebreaker-bitsy/icebreaker-bitsy-v1.1c_info-card_front.svg)
+![iCEBreaker Bitsy v1.1c info card, back](/assets/img/icebreaker-bitsy/icebreaker-bitsy-v1.1c_info-card_back.svg)
 
 ## Changelog
+
+### v1.1c (2021-06-28)
+
+* Added solder pads for USB-C SBU and CC pins
+* Improved back side silkscreen
 
 ### v1.1b (2020-10-19)
 
