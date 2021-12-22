@@ -7,7 +7,7 @@ nav_order: 2
 
 # iCEBreaker Bitsy
 
-[CrowdSupply Crowd Funding Campaign](//https://www.crowdsupply.com/1bitsquared/icebreaker-bitsy-fpga){: .btn}
+[CrowdSupply Crowd Funding Campaign](//www.crowdsupply.com/1bitsquared/icebreaker-bitsy-fpga){: .btn}
 [1BitSquared Product Page](//1bitsquared.com/collections/fpga/products/icebreaker-bitsy){: .btn}
 
 iCEBreaker Bitsy is the smaller but just-as-capable sibling to iCEBreaker. At just 36x18mm, it is compatible with the Teensy form-factor and can be easily embedded into any project.
